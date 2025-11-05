@@ -45,11 +45,4 @@ It can be adapted for real-world use in music platforms, tech products, or mobil
 
 ---
 
-## 🚀 Getting Started (Optional)
 
-To run this project locally:
-
-```bash
-git clone https://github.com/yourusername/sonicflow-landing.git
-cd sonicflow-landing
-open index.html
